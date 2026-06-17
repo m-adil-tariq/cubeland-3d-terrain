@@ -8,9 +8,9 @@ Developed as a semester project for **HCI & Computer Graphics**.
 
 CubeLand is a first-person interactive 3D world where the player can explore a randomly generated block-based terrain, place and remove blocks, and build room structures. The project serves as a practical demonstration of core computer graphics concepts applied in a real-time interactive environment.
 
-<img width="540" height="304" alt="Demo (2) (1)" src="https://github.com/user-attachments/assets/79b9a56f-2503-471e-9a11-8800e80b5be4" />
+<img width="840" height="453" alt="Demo (2) (1)" src="https://github.com/user-attachments/assets/79b9a56f-2503-471e-9a11-8800e80b5be4" />
 
-- see Demo.mp4 for high quality
+**Please wait a few seconds, the demo GIF is loading...**
 
 ## Features
 
